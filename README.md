@@ -1,5 +1,7 @@
 # 🧬 Lung Cancer Risk Prediction App
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lungcancerpredictor-fk7avq9ecmjttpkmjkabqd.streamlit.app/)
+
 This is a Streamlit web app that predicts the risk of lung cancer based on user-provided health and lifestyle inputs. The machine learning model was trained using a cleaned dataset from Kaggle and deployed with an interactive UI.
 ## 📌 Overview
 
